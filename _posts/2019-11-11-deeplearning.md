@@ -7,11 +7,11 @@ header:
 excerpt: "Machine Learning, Data Science, Deep Learning"  
 
 
-# H1 Headline
+# H1 Heading
 
-## H2 Headline
+## H2 Heading
 
-### H3 Headline
+### H3 Heading
 
 Here's some basic text.
 
