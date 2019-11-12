@@ -7,11 +7,11 @@ header:
 excerpt: "Machine Learning, Data Science, Deep Learning"  
 
 
-#H1 Headline
+# H1 Headline
 
-##H2 Headline
+## H2 Headline
 
-###H3 Headline
+### H3 Headline
 
 Here's some basic text.
 
@@ -24,7 +24,7 @@ what about a [link](https://github.com/dataoptimal)?
 Here's a bulleted list:
 * First item
 + Second item
-_ Third item
+- Third item
 
 Here's a number list"
 1. First
@@ -49,10 +49,11 @@ head(df)
 Here's some inline code 'x+y'.
 
 Here's an image:
+
 <img src="{{ site.url }}{{ site.baseurl }}/images/deeplearning.jpg" alt="linearly separable data">
 
 Here's another image using Kramdown:
-![alt]({{ site.url }}{{ site.baseurl }}/images/deeplearning.jpg)
+![alt] ({{ site.url }}{{ site.baseurl }}/images/deeplearning.jpg)
 
 Here's some math:
 
