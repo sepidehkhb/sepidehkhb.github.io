@@ -1,11 +1,12 @@
 ---
-title: "Mchine Learning Project: deeplearning"
+title: "Deep Learning Project"
 date: 2019-11-11
 tags: [machine learning, data science, deep learning]
 header:
    image: "/images/deeplearning.jpg"
-excerpt: "Machine Learning, Data Science, Deep Learning"  
-
+excerpt: "Machine Learning, Data Science, Deep Learning"
+mathjax: "true"
+---
 
 # H1 Heading
 
